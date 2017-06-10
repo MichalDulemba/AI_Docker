@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:0.10.0-devel-gpu
+FROM tensorflow/tensorflow:latest-devel-gpu
 
 ENV KERAS_BACKEND tensorflow
 
